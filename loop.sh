@@ -10,5 +10,5 @@ fi
 for pcode in $PRODUCT_CODES
 do
     ${PATH}/danawa.sh $pcode
-    sleep 1
+    /bin/sleep 1
 done

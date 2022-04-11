@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 
 pcode=$1
 PATH=/python/danawa
